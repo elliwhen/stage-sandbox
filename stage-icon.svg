@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
+  <!-- A proscenium stage: the deck, two side curtains, and the valance across the top. -->
+  <path d="M3 25 H29 L27 29.5 H5 Z" fill="#6c9bc6" />
+  <path d="M3 3 H29 V7.5 Q16 9.5 3 7.5 Z" fill="#6c9bc6" />
+  <path
+    d="M3 7.5 Q8.5 8.6 11 8.8 Q9.5 16 11 25 H3 Z"
+    fill="#d5e5f4"
+    stroke="#6c9bc6"
+    stroke-width="1.2"
+    stroke-linejoin="round"
+  />
+  <path
+    d="M29 7.5 Q23.5 8.6 21 8.8 Q22.5 16 21 25 H29 Z"
+    fill="#d5e5f4"
+    stroke="#6c9bc6"
+    stroke-width="1.2"
+    stroke-linejoin="round"
+  />
+</svg>
